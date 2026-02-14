@@ -1,5 +1,5 @@
 # Data Structures and Algorithms (DSA) Implementation
-All the algorithms I have learnt will be implemented in this repository. 
+All the algorithms and the data structures I have learnt will be implemented in this repository. 
 
 ## 🔍 Table of Contents
 * [Sorting](#sorting)
