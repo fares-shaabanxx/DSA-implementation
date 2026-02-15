@@ -1,3 +1,9 @@
+"""
+Name: Merge Sort
+Time: O(n log n)
+Space: O(n)
+"""
+
 def merge_sort(arr: list, start: int, end: int):
     if start >= end:
         return

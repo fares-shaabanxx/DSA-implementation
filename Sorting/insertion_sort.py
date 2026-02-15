@@ -1,3 +1,9 @@
+"""
+Name: Insertion Sort
+Time: O(n^2)
+Space: O(1)
+"""
+
 def insertion_sort(arr: list[int]):
     for i in range(1, len(arr)):
         key = arr[i] 
