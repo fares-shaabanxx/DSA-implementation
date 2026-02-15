@@ -12,7 +12,3 @@ All the algorithms and the data structures I have learnt will be implemented in 
 | Insertion Sort | $O(n^2)$ | $O(1)$ |
 | Merge Sort | $O(n log n)$ | $O(n)$ |
 
-
-## 🚀 How to Run
-```bash
-python3 Sorting/insertion_sort.py
